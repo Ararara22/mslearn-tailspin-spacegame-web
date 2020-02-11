@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/szymzielonka/my-400-projects/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/szymzielonka/my-400-projects/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
